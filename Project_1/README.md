@@ -82,19 +82,19 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ## Revenue And Profit Calculations
 
-$ COGS (Cost of Goods Sold) = unitsPrice * quantity $
+ COGS (Cost of Goods Sold) = unitsPrice * quantity 
 
-$ VAT = 5\% * COGS $
+ VAT = 5\% * COGS 
 
-$VAT$ is added to the $COGS$ and this is what is billed to the customer.
+VAT is added to the $COGS$ and this is what is billed to the customer.
 
-$ total(gross_sales) = VAT + COGS $
+ total(gross_sales) = VAT + COGS 
 
-$ grossProfit(grossIncome) = total(gross_sales) - COGS $
+ grossProfit(grossIncome) = total(gross_sales) - COGS 
 
 **Gross Margin** is gross profit expressed in percentage of the total(gross profit/revenue)
 
-$ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
+ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} 
 
 `<u>`**Example with the first row in our DB:**`</u>`
 
@@ -113,7 +113,7 @@ $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenu
 
 ## Code
 
-For the rest of the code, check the [SQL_queries.sql](https://github.com/Princekrampah/WalmartSalesAnalysis/blob/master/SQL_queries.sql) file
+For the rest of the code, check the [SQL_queries.sql](https://github.com/Maged325/SQL-Portfolio/edit/main/Project_1/SQL_queries.sql) file
 
 ```sql
 -- Create Database

@@ -18,15 +18,7 @@ QUESTION 4: Create a SQL stored procedure that will allow you to obtain the aver
 ## About Database
 
 #### First table “t_employess”: this table contain personal information about employees like birthday, first and last name, gender, and hiring date.
-CREATE TABLE t_employees (
-    emp_no      INT		        NOT NULL,
-    birth_date  DATE            NOT NULL,
-    first_name  VARCHAR(14)     NOT NULL,
-    last_name   VARCHAR(16)     NOT NULL,
-    gender      ENUM ('M','F')  NOT NULL,
-    hire_date   DATE            NOT NULL,
-    PRIMARY KEY (emp_no)
-);
+![image](https://github.com/user-attachments/assets/5a71b54a-0dbb-4bed-9ec5-489a788a1737)
 
 #### Second table “t_departments”: the second table contain information about the department number and name.
 CREATE TABLE t_departments (
@@ -66,4 +58,4 @@ CREATE TABLE t_salaries (
 
 ## For the rest of code view the **SQL_Queries** file
 
-## For the answers of the questions section view the [SQL_queries.sql](https://github.com/Maged325/SQL-Portfolio/blob/main/Project_2/SQL_Questions.sql) file
+## For the answers of the questions section view the [SQL_Questions.sql](https://github.com/Maged325/SQL-Portfolio/blob/main/Project_2/SQL_Questions.sql) file

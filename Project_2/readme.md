@@ -64,4 +64,4 @@ CREATE TABLE t_salaries (
 
 #### For the rest of code view the **SQL_Queries** file
 
-#### For the answers of the questions section view the SQL_Questions file
+### For the answers of the questions section view the SQL_Questions file

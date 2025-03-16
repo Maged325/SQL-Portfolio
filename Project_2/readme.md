@@ -1,5 +1,5 @@
 # About the Project
-### This project aims to compare male and female employees working in a certain company in different departments, along with their salaries from 1990 to 2002.
+### This project shows my skills with using SQL to join multiple tables, along with using Tableau to represent some charts. This project aims to compare male and female employees working in a certain company in different departments, along with their salaries from 1990 to 2002.
 
 ### This data is obtained from http://www.cs.aau.dk/TimeCenter/Data/employeeTemporalDataSet.zip, which is created by Fusheng Wang and Carlo Zaniolo. To the best of your knowledge, this data is fabricated, and it does not correspond to real people. Any similarity to existing people is purely coincidental.
 

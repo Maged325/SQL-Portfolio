@@ -3,7 +3,7 @@
 
 ### This data is obtained from http://www.cs.aau.dk/TimeCenter/Data/employeeTemporalDataSet.zip, which is created by Fusheng Wang and Carlo Zaniolo. To the best of your knowledge, this data is fabricated, and it does not correspond to real people. Any similarity to existing people is purely coincidental.
 
-### 5 tables were created, each table has its own primary key, and they were used to answer 4 questions that will be answered, each using an SQL query along with a visualization of data using Tableau.
+### 5 tables were created, each table has its own primary key, and they were JOINED together to answer 4 questions that will be answered, each using an SQL query along with a visualization of data using Tableau.
 
 ## **Analysis Questions**
 

@@ -18,44 +18,24 @@ QUESTION 4: Create a SQL stored procedure that will allow you to obtain the aver
 ## About Database
 
 #### First table “t_employess”: this table contain personal information about employees like birthday, first and last name, gender, and hiring date.
-![image](https://github.com/user-attachments/assets/5a71b54a-0dbb-4bed-9ec5-489a788a1737)
+![image](https://github.com/user-attachments/assets/1ae96ec6-8832-47fb-ad76-3d930729b8cd)
 
 #### Second table “t_departments”: the second table contain information about the department number and name.
-CREATE TABLE t_departments (
-    dept_no     CHAR(4)         NOT NULL,
-    dept_name   VARCHAR(40)     NOT NULL,
-    PRIMARY KEY (dept_no),
-    UNIQUE  KEY (dept_name)
-);
+![image](https://github.com/user-attachments/assets/9109a687-8ff3-442d-9592-94d4cc7d6be5)
+
 
 #### Third table ” t_dept_manager”: the third table contain the employers unique number from first table with the department number from the second table.
-CREATE TABLE t_dept_manager (
-   emp_no       INT             NOT NULL,
-   dept_no      CHAR(4)         NOT NULL,
-   from_date    DATE            NOT NULL,
-   to_date      DATE            NOT NULL,
-   PRIMARY KEY (emp_no,dept_no)
-);
+![image](https://github.com/user-attachments/assets/080bf62f-a5d2-4947-88e3-50f50a2f478e)
+
 
 #### Fourth table “t_dept_emp”:
-CREATE TABLE t_dept_emp (
-    emp_no      INT             NOT NULL,
-    dept_no     CHAR(4)         NOT NULL,
-    from_date   DATE            NOT NULL,
-    to_date     DATE            NOT NULL,
-    PRIMARY KEY (emp_no,dept_no)
-);
+![image](https://github.com/user-attachments/assets/87771d0e-3ab6-4f52-b114-d378284de2d8)
+
 
 #### Fifth table “t_salaries”:  the fifth table contain data about salary of employees.
-CREATE TABLE t_salaries (
-    emp_no      INT             NOT NULL,
-    salary      INT             NOT NULL,
-    from_date   DATE            NOT NULL,
-    to_date     DATE            NOT NULL,
-    PRIMARY KEY (emp_no, from_date)
-)
-;
+![image](https://github.com/user-attachments/assets/0ae00503-bbd8-475b-85f2-9c80d625aed6)
 
-## For the rest of code view the **SQL_Queries** file
+
+## For the rest of the code view the [SQL_Queries.sql](https://drive.google.com/file/d/13Fw58ir9-_wl_YTK4OW6LHsuJJGlVZ6I/view?usp=sharing) file
 
 ## For the answers of the questions section view the [SQL_Questions.sql](https://github.com/Maged325/SQL-Portfolio/blob/main/Project_2/SQL_Questions.sql) file

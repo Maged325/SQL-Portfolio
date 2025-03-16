@@ -17,7 +17,7 @@ QUESTION 4: Create a SQL stored procedure that will allow you to obtain the aver
 
 ## About Database
 
-####First table “t_employess”: this table contain personal information about employees like birthday, first and last name, gender, and hiring date.
+#### First table “t_employess”: this table contain personal information about employees like birthday, first and last name, gender, and hiring date.
 CREATE TABLE t_employees (
     emp_no      INT		        NOT NULL,
     birth_date  DATE            NOT NULL,
@@ -28,7 +28,7 @@ CREATE TABLE t_employees (
     PRIMARY KEY (emp_no)
 );
 
-####Second table “t_departments”: the second table contain information about the department number and name.
+#### Second table “t_departments”: the second table contain information about the department number and name.
 CREATE TABLE t_departments (
     dept_no     CHAR(4)         NOT NULL,
     dept_name   VARCHAR(40)     NOT NULL,
@@ -36,7 +36,7 @@ CREATE TABLE t_departments (
     UNIQUE  KEY (dept_name)
 );
 
-####Third table ” t_dept_manager”: the third table contain the employers unique number from first table with the department number from the second table.
+#### Third table ” t_dept_manager”: the third table contain the employers unique number from first table with the department number from the second table.
 CREATE TABLE t_dept_manager (
    emp_no       INT             NOT NULL,
    dept_no      CHAR(4)         NOT NULL,
@@ -45,7 +45,7 @@ CREATE TABLE t_dept_manager (
    PRIMARY KEY (emp_no,dept_no)
 );
 
-####Fourth table “t_dept_emp”:
+#### Fourth table “t_dept_emp”:
 CREATE TABLE t_dept_emp (
     emp_no      INT             NOT NULL,
     dept_no     CHAR(4)         NOT NULL,
@@ -66,4 +66,4 @@ CREATE TABLE t_salaries (
 
 ## For the rest of code view the **SQL_Queries** file
 
-## For the answers of the questions section view the SQL_Questions file
+## For the answers of the questions section view the [SQL_queries.sql](https://github.com/Maged325/SQL-Portfolio/blob/main/Project_2/SQL_Questions.sql) file

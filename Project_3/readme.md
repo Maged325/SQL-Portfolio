@@ -6,7 +6,7 @@
 
 ### NOTE: This data is available everywhere for educational purpose,this data is fabricated, and it does not correspond to real people. Any similarity to existing people is purely coincidental.
 
-![1742163808904](image/readme/1742163808904.png)
+![Sample_Database](https://github.com/user-attachments/assets/505d03ed-ff52-4f0d-b8da-78bf59f40aea)
 
 ## The aim of this project is to show my skills in SQL by applying what I learned and can do in any dataset given. the following list was done:
 

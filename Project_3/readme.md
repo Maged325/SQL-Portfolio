@@ -22,3 +22,5 @@
 10. Keywords: LENGTH & TRIM
 11. Change Table Name.
 12. Using Case Statements
+
+## For the code view the [SQL_Queries.sql](https://github.com/Maged325/SQL-Portfolio/blob/main/Project_3/SQL_Queries.sql) file.

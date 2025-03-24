@@ -23,7 +23,7 @@
 ![image](https://github.com/user-attachments/assets/b6014138-18ec-4821-b44c-19e74a21f1ab)
 
 
-#### **Analysis questions to answer:**
+### **Analysis questions to answer:**
 
 1. How many olympics games have been held?
 2. List down all Olympics games held so far.

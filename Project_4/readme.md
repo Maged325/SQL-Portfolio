@@ -4,9 +4,9 @@
 
 ### You can view the 2 datasets I used, along with the SQL_Queries files :
 
-1. (Datasets) [https://github.com/Maged325/SQL-Portfolio/blob/main/Project_4/Datasets.rar] file.
-3. Creating tables   (SQL_Tables) [https://github.com/Maged325/SQL-Portfolio/blob/main/Project_4/SQL_Tables.sql] file.
-4. Answering Questins   (SQL_Queries) [https://github.com/Maged325/SQL-Portfolio/blob/main/Project_4/SQL_Queries.sql] file.
+1. [Datasets] (https://github.com/Maged325/SQL-Portfolio/blob/main/Project_4/Datasets.rar) file.
+3. Creating tables  [SQL_Tables] (https://github.com/Maged325/SQL-Portfolio/blob/main/Project_4/SQL_Tables.sql) file.
+4. Answering Questins [SQL_Queries] (https://github.com/Maged325/SQL-Portfolio/blob/main/Project_4/SQL_Queries.sql) file.
 
 ### Creating Column Data Types for both Tables
 ![image](https://github.com/user-attachments/assets/4be84c7d-b17a-4cd2-b096-6ede2d0e758e)

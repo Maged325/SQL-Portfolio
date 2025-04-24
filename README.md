@@ -1,8 +1,39 @@
-# Project_1: Data Analysis using MySQL
- ### Working with Walmart sales data to understand top-performing branches and products, sales trends of different products, and the different factors that affect sales of the different branches.
-# Project_2: Data Analysis using  MySQL + Tableau
- ### This project aims to compare male and female employees working in a certain company in different departments, along with their salaries from 1990 to 2002.
-# Project_3: Using MySQL with mutliple tables
- ### In this project, the most common SQL statements needed in analyzing any dataset for data analysis are applied.
- # Project_4: Data Analysis using PostgreSQL
- ### In this project, the history of olympics data are used to answer questions to find out about total medals won, and compare it with gender, country, and sport.
+# 🗃️ **SQL Portfolio**
+Welcome to my SQL Projects Portfolio, where I’ve used MySQL and PostgreSQL to explore, analyze, and draw insights from real-world datasets.
+
+## 📌 **Project 1: Sales Data Analysis using MySQL**
+Analyzed Walmart sales data to identify:
+
+🏬 Top-performing branches and products
+
+📈 Sales trends across product categories
+
+🎯 Key factors affecting sales in different regions
+
+## 📌 **Project 2: Employee Analysis using MySQL + Tableau**
+Combined SQL and Tableau to visualize employee data and analyze:
+
+👩‍💼 Gender distribution across departments
+
+💰 Salary trends from 1990 to 2002
+
+📊 Interactive dashboards created using Tableau
+
+## 📌 **Project 3: SQL Practice with Multiple Tables**
+Hands-on SQL practice applying essential queries such as:
+
+🔗 Joins, aggregations, subqueries, and case statements
+
+🎯 Common patterns in data exploration and business analysis
+
+## 📌 **Project 4: Olympic History Analysis using PostgreSQL**
+Explored the Olympic Games dataset to uncover:
+
+🥇 Total medals by country, gender, and sport
+
+🧠 Advanced PostgreSQL queries for data segmentation and insight generation
+
+📂 Each project demonstrates real-world SQL skills in action — from data extraction to insight generation.
+
+### Feel free to explore the code and insights!
+🔗 [Insert links to each project folder or notebook here]

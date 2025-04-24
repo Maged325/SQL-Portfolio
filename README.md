@@ -36,4 +36,7 @@ Explored the Olympic Games dataset to uncover:
 📂 Each project demonstrates real-world SQL skills in action — from data extraction to insight generation.
 
 ### Feel free to explore the code and insights!
-🔗 [Insert links to each project folder or notebook here]
+#### 🔗 Project_1 : [Link](https://github.com/Maged325/SQL-Portfolio/tree/main/Project_1)
+#### 🔗 Project_2 : [Link](https://github.com/Maged325/SQL-Portfolio/tree/main/Project_2)
+#### 🔗 Project_3 : [Link](https://github.com/Maged325/SQL-Portfolio/tree/main/Project_3)
+#### 🔗 Project_4 : [Link](https://github.com/Maged325/SQL-Portfolio/tree/main/Project_4)

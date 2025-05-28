@@ -61,6 +61,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Contains personal information about each employee.
 - Fields include: birthday, first name, last name, gender, hire date.
+  
 ![table_1](https://github.com/user-attachments/assets/5ef8c19c-f9fe-4477-99c6-396e069c1002)
 
 ---
@@ -69,6 +70,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Stores department details.
 - Fields include: department number and department name.
+  
 ![table_2](https://github.com/user-attachments/assets/b8ece289-a35d-436d-a24f-711fe64d98af)
 
 ---
@@ -77,6 +79,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Links employees to the departments they manage.
 - Fields include: employee number (from `t_employees`) and department number (from `t_departments`).
+  
 ![table_3](https://github.com/user-attachments/assets/b3711cd6-73fd-4d5d-a104-f5a95a5e2b16)
 
 ---
@@ -85,6 +88,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Contains employee salary information across time.
 - Fields include: employee number, salary amount, and salary dates.
+  
 ![table_4](https://github.com/user-attachments/assets/35c2ea11-3c2e-45a1-8ad0-f4c0bfcc3119)
 
 ---

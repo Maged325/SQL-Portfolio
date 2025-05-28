@@ -99,7 +99,8 @@ All files are organized to reflect the full workflow from SQL analysis to Tablea
 
 ```
 sql-tableau-project/
-├── Final_Dashboard.twbx        - Tableau packaged dashboard (interactive)
+├── Final Dashboard.twbx        - Tableau packaged dashboard (interactive)
+├── Final Dashboard.png         - Exported image of Tableau dashboard 
 ├── SQL_Queries.sql             - SQL code for answering the 4 analysis questions
 ├── Project_Report.pdf          - Contains SQL queries with corresponding visualizations and insights
 ├── README.md                   - Project documentation

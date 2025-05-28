@@ -114,6 +114,10 @@ Due to GitHub file size limitations, the full SQL schema file could not be uploa
 
 > This file includes all table creation scripts, inserts, and any stored procedures used in this project.
 ---
+## 🌐 **Live Dashboard Preview**
+
+### 📈 **Want to interact with this dashboard online?**  
+Check it out on **[Tableau Public](https://public.tableau.com/app/profile/maged.fouad/vizzes)**, where I showcase more of my Tableau visualizations.
 
 ## 🤝 **Connect with Me**
 

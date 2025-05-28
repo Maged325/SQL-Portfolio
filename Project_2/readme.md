@@ -61,7 +61,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Contains personal information about each employee.
 - Fields include: birthday, first name, last name, gender, hire date.
-- ![Employees Table](![table_1](https://github.com/user-attachments/assets/e8895e2a-7917-4b75-ae69-a2a0adf7edee))
+![table_1](https://github.com/user-attachments/assets/5ef8c19c-f9fe-4477-99c6-396e069c1002)
 
 ---
 
@@ -69,7 +69,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Stores department details.
 - Fields include: department number and department name.
-- ![Departments Table](![table_2](https://github.com/user-attachments/assets/92eab349-f59d-4977-9bb1-1d5ef9f63cf1))
+![table_2](https://github.com/user-attachments/assets/b8ece289-a35d-436d-a24f-711fe64d98af)
 
 ---
 
@@ -77,7 +77,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Links employees to the departments they manage.
 - Fields include: employee number (from `t_employees`) and department number (from `t_departments`).
-- ![Dept Manager Table](![table_3](https://github.com/user-attachments/assets/8162de0f-23e2-46f7-b01f-633fcd9cb106))
+![table_3](https://github.com/user-attachments/assets/b3711cd6-73fd-4d5d-a104-f5a95a5e2b16)
 
 ---
 
@@ -85,7 +85,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Contains employee salary information across time.
 - Fields include: employee number, salary amount, and salary dates.
-- ![Salaries Table](![table_4](https://github.com/user-attachments/assets/e7f94c26-b6fd-473b-8a1f-cae27fc18c25))
+![table_4](https://github.com/user-attachments/assets/35c2ea11-3c2e-45a1-8ad0-f4c0bfcc3119)
 
 ---
 

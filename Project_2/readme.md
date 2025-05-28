@@ -1,6 +1,6 @@
-# 🧠 Employee Gender & Salary Analysis Project **— *SQL + Tableau***
+# 🧠 **Employee Gender & Salary Analysis Project — *SQL + Tableau***
 
-## 📌 About the Project
+## 📌 **About the Project**
 
 This project showcases how SQL can be used to join multiple relational tables and how Tableau transforms that data into powerful visual insights.
 
@@ -12,7 +12,7 @@ This project showcases how SQL can be used to join multiple relational tables an
 
 ---
 
-## 🧾 Database Overview
+## 🧾 **Database Overview**
 
 - ✅ 5 normalized tables created
 - 🔑 Each table has its own primary key
@@ -22,7 +22,7 @@ This project showcases how SQL can be used to join multiple relational tables an
 
 ---
 
-## ❓ Analysis Questions & Visualizations
+## ❓**Analysis Questions & Visualizations**
 
 ### 1️⃣ Breakdown of Employees by Gender per Year
 
@@ -42,7 +42,7 @@ This project showcases how SQL can be used to join multiple relational tables an
 
 ---
 
-## 📌 Project Goals
+## 📌 **Project Goals**
 
 - ✅ Practice advanced **SQL JOINs**, GROUP BY, and aggregate functions
 - ✅ Implement a **parameterized stored procedure**
@@ -51,17 +51,17 @@ This project showcases how SQL can be used to join multiple relational tables an
 
 ---
 
-## 📚 About the Database
+## 📚 **About the Database**
 
 The dataset is structured across five relational tables. Each table is uniquely keyed and joined together to extract meaningful insights using SQL.
 
-### 🧾 Table Descriptions
+### 🧾 **Table Descriptions**
 
 #### 🧍‍♂️ `t_employees`
 
 - Contains personal information about each employee.
 - Fields include: birthday, first name, last name, gender, hire date.
-- ![Employees Table](path/to/employees_table_image.png)
+- ![Employees Table](![table_1](https://github.com/user-attachments/assets/e8895e2a-7917-4b75-ae69-a2a0adf7edee))
 
 ---
 
@@ -69,7 +69,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Stores department details.
 - Fields include: department number and department name.
-- ![Departments Table](path/to/departments_table_image.png)
+- ![Departments Table](![table_2](https://github.com/user-attachments/assets/92eab349-f59d-4977-9bb1-1d5ef9f63cf1))
 
 ---
 
@@ -77,7 +77,7 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Links employees to the departments they manage.
 - Fields include: employee number (from `t_employees`) and department number (from `t_departments`).
-- ![Dept Manager Table](path/to/dept_manager_table_image.png)
+- ![Dept Manager Table](![table_3](https://github.com/user-attachments/assets/8162de0f-23e2-46f7-b01f-633fcd9cb106))
 
 ---
 
@@ -85,18 +85,11 @@ The dataset is structured across five relational tables. Each table is uniquely 
 
 - Contains employee salary information across time.
 - Fields include: employee number, salary amount, and salary dates.
-- ![Salaries Table](path/to/salaries_table_image.png)
-
-#### 🧠 SQL Logic
-
-For the rest of the SQL logic used to extract and analyze this data, check the file:
-📄 [`SQL_Queries.t`](./SQL_Queries.sql)xt
+- ![Salaries Table](![table_4](https://github.com/user-attachments/assets/e7f94c26-b6fd-473b-8a1f-cae27fc18c25))
 
 ---
 
-
-
-## 📁 Project Structure
+## 📁 **Project Structure**
 
 All files are organized to reflect the full workflow from SQL analysis to Tableau dashboard creation:
 
@@ -104,10 +97,18 @@ All files are organized to reflect the full workflow from SQL analysis to Tablea
 sql-tableau-project/
 ├── Final_Dashboard.twbx        - Tableau packaged dashboard (interactive)
 ├── SQL_Queries.sql             - SQL code for answering the 4 analysis questions
-├── SQL_Database.txt            - Full SQL database schema (in .txt format due to file size)
 ├── Project_Report.pdf          - Contains SQL queries with corresponding visualizations and insights
 ├── README.md                   - Project documentation
 ```
+## 🗃️ **Full SQL Schema File**
+
+Due to GitHub file size limitations, the full SQL schema file could not be uploaded directly to this repository.
+
+📥 **Download it here:**  
+[🔗 SQL_Database.sql on Google Drive](https://drive.google.com/file/d/1bmEGxDpW0dYm0STKkp3HmsUEOtnshXbF/view?usp=drive_link)
+
+> This file includes all table creation scripts, inserts, and any stored procedures used in this project.
+---
 
 ## 🤝 **Connect with Me**
 

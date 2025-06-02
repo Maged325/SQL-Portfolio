@@ -11,6 +11,8 @@
 ### Creating Column Data Types for both Tables
 ![image](https://github.com/user-attachments/assets/4be84c7d-b17a-4cd2-b096-6ede2d0e758e)
 
+### You can take this code and use it to import the data (athlete_events.csv
+![Screenshot_1](https://github.com/user-attachments/assets/5ae16227-b754-4bb8-8166-645f4fd5bbbb)
 
 
 ### Data from "athlete_events" file. I load this data into a table named "OLYMPICS_HISTORY".

@@ -1,6 +1,7 @@
-# **Task 5: SQL-Based Analysis of Product Sales**
+# Project 5 – SQL-Based Analysis of Product Sales
 
-This project is part of the Elevvo Internship Tasks — focused on SQL analytics using the Chinook Database. The objective is to perform deep product and sales analysis using SQL queries and business logic.
+## 📌 Project Overview
+This project uses the Chinook Database to perform SQL-based analysis of product sales and answer key business questions. By leveraging JOINs, aggregations, and window functions, the analysis provides insights into sales performance across products, regions, and time periods.
 
 ---
 
@@ -43,9 +44,3 @@ This project is part of the Elevvo Internship Tasks — focused on SQL analytics
 
 ---
 
-## 🙋 Developed By
-
-**Maged** – Elevvo Internship, Task 5
-*Date: July 2025*
-
----

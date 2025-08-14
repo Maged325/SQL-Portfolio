@@ -1,5 +1,5 @@
 # 🗃️ **SQL Portfolio**
-Welcome to my SQL Projects Portfolio, where I’ve used MySQL and PostgreSQL to explore, analyze, and draw insights from real-world datasets.
+Welcome to my SQL Projects Portfolio, where I’ve used SQL Server, MySQL and PostgreSQL to explore, analyze, and draw insights from real-world datasets.
 
 ## 📌 **Project 1: Sales Data Analysis using MySQL**
 Analyzed Walmart sales data to identify:

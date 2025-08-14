@@ -40,7 +40,7 @@ Explored the Olympic Games dataset to uncover:
 🧠 Advanced PostgreSQL queries for data segmentation and insight generation
 
 ---
-📌 **Project 5: SQL-Based Analysis of Product Sales**
+## 📌 **Project 5: SQL-Based Analysis of Product Sales**
 Performed an in-depth sales analysis using the Chinook Database to answer key business questions:
 
 💿 Identified top-selling products and their contribution to revenue

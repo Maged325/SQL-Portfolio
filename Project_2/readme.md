@@ -1,4 +1,4 @@
-# 🧠 **Employee Gender & Salary Analysis Project — *SQL + Tableau***
+# **Employee Gender & Salary Analysis Project — *SQL + Tableau***
 
 ## 📌 **About the Project**
 
@@ -124,3 +124,4 @@ Check it out on **[Tableau Public](https://public.tableau.com/app/profile/maged.
 🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
 
 ---
+

@@ -1,6 +1,5 @@
 
-
-## In this project, I designed a database for a company named Company X. The database of the company consists of 4 tables namely, Branch table, Client Table, Works_With Table, and Branch Supplier Table.
+### *In this project, I designed a database for a company named Company X. The database of the company consists of 4 tables namely, Branch table, Client Table, Works_With Table, and Branch Supplier Table.*
 
 ### The Table below shows how the tables were created. 
 
@@ -24,3 +23,4 @@
 12. Using Case Statements
 
 ## For the code view the [SQL_Queries.sql](https://github.com/Maged325/SQL-Portfolio/blob/main/Project_3/SQL_Queries.sql) file.
+

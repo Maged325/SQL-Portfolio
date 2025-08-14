@@ -44,9 +44,13 @@ Explored the Olympic Games dataset to uncover:
 Performed an in-depth sales analysis using the Chinook Database to answer key business questions:
 
 💿 Identified top-selling products and their contribution to revenue
+
 🌍 Calculated revenue per region to evaluate market performance
+
 📆 Tracked monthly sales trends for performance monitoring
+
 🔗 Used JOINs to merge product, sales, and customer tables
+
 🏅 Applied window functions (ROW_NUMBER, RANK) for advanced ranking and segmentation
 
 ---

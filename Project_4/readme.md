@@ -1,12 +1,13 @@
 # **Olympics Data**
 
-## In this dataset, I practice writing SQL queries using PostgreSQL on a real dataset. The data is about the 120 years of Olympics history that I downloaded from Kaggle from the user rgriffin.
+## In this dataset, I practice writing SQL queries using PostgreSQL on a real dataset. The data is about the 120 years of Olympics history that I downloaded from Kaggle from the user `rgriffin`.
 
 ### You can view the 2 datasets I used, along with the SQL_Queries files :
 
 1. [Datasets](https://github.com/Maged325/SQL-Portfolio/blob/main/Project_4/Datasets.rar) file.
 3. Creating tables  [SQL_Tables](https://github.com/Maged325/SQL-Portfolio/blob/main/Project_4/SQL_Tables.sql) file.
 4. Answering Questins [SQL_Queries](https://github.com/Maged325/SQL-Portfolio/blob/main/Project_4/SQL_Queries.sql) file.
+---
 
 ### Creating Column Data Types for both Tables
 ![image](https://github.com/user-attachments/assets/4be84c7d-b17a-4cd2-b096-6ede2d0e758e)
@@ -24,6 +25,7 @@
 ### Data from "noc_regions file". I load this data into a table named "OLYMPICS_HISTORY_NOC_REGIONS".
 ![image](https://github.com/user-attachments/assets/b6014138-18ec-4821-b44c-19e74a21f1ab)
 
+---
 
 ### **Analysis questions to answer:**
 
@@ -42,3 +44,4 @@
 13. Fetch the top 5 most successful countries in olympics. Success is defined by no of medals won.
 14. List down total gold, silver and broze medals won by each country.
 15. List down total gold, silver and broze medals won by each country corresponding to each olympic games.
+

@@ -36,11 +36,12 @@ This project uses the Chinook Database to perform SQL-based analysis of product 
 
 | File Name                     | Description                                 |
 | ----------------------------- | ------------------------------------------- |
-| `Chinook_SalesAnalysis.sql` | Final SQL query file used for analysis        |
+| `Chinook_SalesQueries.sql`  | Final SQL query file used for analysis        |
 | `Chinook_CSVs/`             | Folder containing 11 imported tables in CSV   |
 | `Chinook.sqlite/`           | Original database file downloaded from Kaggle |
 | `README.md`                 | Project overview and analysis breakdown       |
 
 
 ---
+
 
